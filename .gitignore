@@ -1,0 +1,21 @@
+# Datasets and large files
+datasets/
+*.zip
+*.tar.gz
+
+# Model checkpoints
+checkpoints/
+*.pth
+*.pt
+
+# Logs and outputs
+logs/
+*.csv
+*.png
+*.pdf
+
+# Python cache
+__pycache__/
+*.py[cod]
+.vscode/
+.idea/
